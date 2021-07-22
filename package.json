@@ -1,0 +1,18 @@
+{
+  "name": "test-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "etl.js",
+  "scripts": {
+    "start": "node etl.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^4.0.1",
+    "mongoose": "^5.13.3",
+    "mssql": "^7.1.3",
+    "tedious": "^11.2.0"
+  }
+}

@@ -1,0 +1,11 @@
+1. Es el encargado de obtener , depurar y preparar los datos  para obtener información
+2. Tener un flujo de datos que se pueda usar de forma controlada y automatizada
+3. ETL son la siglas de extraer , transformar  y cargar que son una serie de pasos que nos permiten almacenar datos desde un origen hasta nuestro propios repositorios para sacar información útil
+4. Empezaría definiendo los lugares de donde extraeremos la información así como el formato de los mismo una ves conociendo eso procederíamos a hacer limpieza , transformación y combinación de los datos para poder tener todo el formato que se definió para su almacenamiento en este caso DWH 
+5. Porque los JOIN’S nos permiten hacer muchas combinaciones de los datos que existen las DB que se tiene, esto mismo nos ayudara a generar mejor información así como información con mayor valor que servirá para mejorar en la empresa
+6. Yo diría que son la idea, el desarrollo , las pruebas y el producto final
+7. Usando sistemas logs así como software de monitoreos que nos permitan ver los rendimientos de los servidores, ya que debemos tener bastante información de los procesos tanto de extracción como de guardado.
+8. Un ejemplo puede ser al para almacenar comentarios de los clientes ya que esto serian muchos datos que no tiene una relación directa a su vez usar una db NoSQL nos permite realizar consultas mas rápidas a conjuntos de datos más grandes.
+9. En mi opinión seria la lógica ya que esta ayuda mucho a poder resolver problemas no técnicos a la hora de hacer ETL o así como para entender mas sobre los datos.
+11. La diferencia es que OLAP se usa más para realizar tareas complejas de análisis de datos y por otro lado OLTP se usa más para realizar grandes cantidades de consultas de los datos.
+

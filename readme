@@ -1,0 +1,13 @@
+-----
+Para la automatizacion de la extracion todos los dias a las 12 am se realizara un comando para la su ejecucion usando CRONTAB
+-----
+Pasos para configurar CRONTAB
+
+1. Ejecutar comando crontab -e
+2. Agregar siguiente linea a la configuracion 0 0 * * * sh [ubicacion del sh adjunto en el github]/job.sh
+3. Guardar cambios y cerrar
+
+---
+Para la parte de update de NoSQL no pude terminarla ya que estos dias tuve unos incovenientes es la parte 
+que me quedo pendiente espero que con todo los demas sea mas que suficiente
+---
